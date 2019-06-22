@@ -2,5 +2,4 @@
 
 A web app that can add, edit or remove projects &amp; tasks. You can also register and login.
 
-The front-end is modified with Bulma and the back-end used was PhpMyAdmin.
-
+The front-end is modified with Bulma and the database management system used is PhpMyAdmin.
